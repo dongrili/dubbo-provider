@@ -12,6 +12,9 @@ public class CountServiceImpl implements CountService {
     @Override
     public int getCount(int i) {
         count++;
-        return i*count;
+        int ij= i*count;
+
+        System.out.println(ij);
+        return ij;
     }
 }

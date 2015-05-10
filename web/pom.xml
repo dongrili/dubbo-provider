@@ -24,7 +24,7 @@
 
       <dependency>
           <groupId>im.dubbo</groupId>
-          <artifactId>service</artifactId>
+          <artifactId>service.facade</artifactId>
           <version>0.0.1-SNAPSHOT</version>
       </dependency>
 
