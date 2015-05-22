@@ -22,7 +22,7 @@
     <import resource="dubbo/dubbo-config.xml"></import>
     <import resource="dubbo/dubbo-consumer.xml"></import>
     <import resource="dubbo/dubbo-provider.xml"></import>
-
+    <import resource="spring-dal.xml"/>
 
 
 </beans>
